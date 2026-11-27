@@ -79,13 +79,13 @@ Output:
         */
 
         echo "<p>LOOPING PERTAMA</p>";
-        for ($i = 1; $i <= 20; $i++) {
-            echo "$i - I Love PHP<br>";
+        for ($i = 2; $i <= 20; $i+=2) {
+            echo "$i - I Love PHP<br><br>";
         }
 
         echo "<p>LOOPING KEDUA</p>";
-        for ($i = 20; $i >= 1; $i--) {
-            echo "$i - I Love PHP<br>";
+        for ($i = 20; $i >= 2; $i-=2) {
+            echo "$i - I Love PHP<br><br>";
         }
 
         /* 
