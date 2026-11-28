@@ -44,6 +44,14 @@
                 <span class="hide-menu">Category</span>
               </a>
             </li>
+            <li class="sidebar-item">
+              <a class="sidebar-link" href="/game" aria-expanded="false">
+                <span>
+                  <iconify-icon icon="solar:layers-minimalistic-bold-duotone" class="fs-6"></iconify-icon>
+                </span>
+                <span class="hide-menu">Game</span>
+              </a>
+            </li>
         </nav>
         <!-- End Sidebar navigation -->
       </div>
